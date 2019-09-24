@@ -1,0 +1,28 @@
+body{
+	background: url(https://images.unsplash.com/photo-1542297056134-df64a72eaeb7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9);
+	background-size: cover;
+}
+
+html{
+	height: 100%;
+}
+.content {
+	color: white;
+	text-align: center;
+	padding-top: 20%;
+	font-family: Zilla Slab;
+}
+
+h1 {
+	font-weight: 700 !important;
+	font-size: 5em !important;
+}
+
+h3 {
+	font-weight: 300;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+}
